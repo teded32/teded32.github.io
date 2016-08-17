@@ -1,3 +1,3 @@
-# Andur Carr
+# Edwin Stanley
 
-This repository is the source for my personal site, [andurcarr.com](http://andurcarr.com). It is built with [AngularJS](https://angularjs.org/) (v1.5) and the [Angular Material](https://material.angularjs.org/latest/) library.
+This repository is the source for my personal site, [edwinstanley.xyz](http://teded32.github.io). It is built with [AngularJS](https://angularjs.org/) (v1.5) and the [Angular Material](https://material.angularjs.org/latest/) library.
