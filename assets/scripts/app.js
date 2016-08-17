@@ -1,1 +1,1 @@
-angular.module("Andur", ["ngMaterial"]);
+angular.module("Ed", ["ngMaterial"]);
